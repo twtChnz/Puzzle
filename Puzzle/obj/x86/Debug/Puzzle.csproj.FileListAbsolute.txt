@@ -1,0 +1,16 @@
+D:\dotnet\Puzzle\Puzzle\bin\WindowsGL\Debug\SDL.dll
+D:\dotnet\Puzzle\Puzzle\bin\WindowsGL\Debug\Puzzle.exe
+D:\dotnet\Puzzle\Puzzle\bin\WindowsGL\Debug\Puzzle.pdb
+D:\dotnet\Puzzle\Puzzle\bin\WindowsGL\Debug\Lidgren.Network.dll
+D:\dotnet\Puzzle\Puzzle\bin\WindowsGL\Debug\MonoGame.Framework.dll
+D:\dotnet\Puzzle\Puzzle\bin\WindowsGL\Debug\OpenTK.dll
+D:\dotnet\Puzzle\Puzzle\bin\WindowsGL\Debug\Tao.Sdl.dll
+D:\dotnet\Puzzle\Puzzle\obj\x86\Debug\Puzzle.exe
+D:\dotnet\Puzzle\Puzzle\obj\x86\Debug\Puzzle.pdb
+D:\dotnet\Puzzle\Puzzle\bin\WindowsGL\Debug\Content\pic4.jpg
+D:\dotnet\Puzzle\Puzzle\bin\WindowsGL\Debug\Content\pic1.jpg
+D:\dotnet\Puzzle\Puzzle\bin\WindowsGL\Debug\Content\pic2.jpg
+D:\dotnet\Puzzle\Puzzle\bin\WindowsGL\Debug\Content\pic3.jpg
+D:\dotnet\Puzzle\Puzzle\bin\WindowsGL\Debug\Content\background.jpg
+D:\dotnet\Puzzle\Puzzle\bin\WindowsGL\Debug\Puzzle.exe.CodeAnalysisLog.xml
+D:\dotnet\Puzzle\Puzzle\bin\WindowsGL\Debug\Puzzle.exe.lastcodeanalysissucceeded

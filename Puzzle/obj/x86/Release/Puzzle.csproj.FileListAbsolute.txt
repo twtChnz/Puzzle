@@ -1,0 +1,14 @@
+D:\dotnet\Puzzle\Puzzle\bin\WindowsGL\Release\Content\background.jpg
+D:\dotnet\Puzzle\Puzzle\bin\WindowsGL\Release\Content\pic4.jpg
+D:\dotnet\Puzzle\Puzzle\bin\WindowsGL\Release\Content\pic1.jpg
+D:\dotnet\Puzzle\Puzzle\bin\WindowsGL\Release\Content\pic2.jpg
+D:\dotnet\Puzzle\Puzzle\bin\WindowsGL\Release\Content\pic3.jpg
+D:\dotnet\Puzzle\Puzzle\bin\WindowsGL\Release\SDL.dll
+D:\dotnet\Puzzle\Puzzle\bin\WindowsGL\Release\Puzzle.exe
+D:\dotnet\Puzzle\Puzzle\bin\WindowsGL\Release\Puzzle.pdb
+D:\dotnet\Puzzle\Puzzle\bin\WindowsGL\Release\Lidgren.Network.dll
+D:\dotnet\Puzzle\Puzzle\bin\WindowsGL\Release\MonoGame.Framework.dll
+D:\dotnet\Puzzle\Puzzle\bin\WindowsGL\Release\OpenTK.dll
+D:\dotnet\Puzzle\Puzzle\bin\WindowsGL\Release\Tao.Sdl.dll
+D:\dotnet\Puzzle\Puzzle\obj\x86\Release\Puzzle.exe
+D:\dotnet\Puzzle\Puzzle\obj\x86\Release\Puzzle.pdb
