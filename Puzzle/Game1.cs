@@ -89,9 +89,11 @@ namespace Puzzle
                     images[imagesIterator] = Content.Load<Texture2D>(Path.GetFileName(filePaths[i]));
                 }
             }
-
+  
             background = Content.Load<Texture2D>("background.jpg");
-            image = images[0];
+
+            imagesIterator = 0;
+            image = images[imagesIterator];
 
             // TODO: use this.Content to load your game content here
         }

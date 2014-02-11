@@ -12,3 +12,4 @@ D:\dotnet\Puzzle\Puzzle\bin\WindowsGL\Release\OpenTK.dll
 D:\dotnet\Puzzle\Puzzle\bin\WindowsGL\Release\Tao.Sdl.dll
 D:\dotnet\Puzzle\Puzzle\obj\x86\Release\Puzzle.exe
 D:\dotnet\Puzzle\Puzzle\obj\x86\Release\Puzzle.pdb
+D:\dotnet\Puzzle\Puzzle\obj\x86\Release\Puzzle.csprojResolveAssemblyReference.cache
